@@ -1,0 +1,10 @@
+{
+  "name": "http-form",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "date-time": "^2.1.0",
+    "mysql": "^2.14.0",
+    "node-cron": "^1.2.0"
+  }
+}
